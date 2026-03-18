@@ -1,5 +1,3 @@
-function suma(a, b) {
-    return a + b
-}
+var suma = 7 + 12;
 
-console.log(suma(3,3))
+console.log(suma);
